@@ -15,6 +15,7 @@
 Exemplo de Contas: 
 
 **https:/<span></span>/github.com<span></span>/user-a**
+
 **https:/<span></span>/github.com<span></span>/user-b**. 
 
 Abrir o terminal
